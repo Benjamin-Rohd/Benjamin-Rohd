@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Benjamin
+- 👋 Hey, I’m Benji
 - 👀 I'm currently looking for a summer 2022 internship
 - 📫 You can reach me at bmrohd@gmail.com
 - 💡 I'm especially interested in developing projects that connect to creative fields like music production
