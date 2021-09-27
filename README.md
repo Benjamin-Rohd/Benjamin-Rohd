@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Benjamin-Rohd
-- 👀 I’m interested in music software development
-- 🌱 I’m currently learning Ruby, OCaml, and more languages soon
-- 💞️ I’m looking to collaborate on anything interesting!
-- 📫 How to reach me: bmrohd@gmail.com
+- 👋 Hey, I’m Benjamin
+- 👀 I'm currently looking for a summer 2022 internship
+- 📫 You can reach me at bmrohd@gmail.com
+- 💡 I'm especially interested in developing projects that connect to creative fields like music production
 
 <!---
 Benjamin-Rohd/Benjamin-Rohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
